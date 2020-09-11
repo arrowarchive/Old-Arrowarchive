@@ -11,15 +11,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Things I enjoy:
 
-# Drawing
-## Writing
-### Animation
+# Rachel/Ray
+## She/Her
+### Art Student
 
-- Bulleted
-- List
+# Things I Like:
+- Drawing
+- Writing
+- Video Games
+- Animation
+- Standup Comedy
+- Cookies!!! :cookie: :cookie: :cookie: :cookie: :cookie:
 
-1. Numbered
-2. List
+# Things I Dislike:
+- Art Thieves/Reposters
+- Plagiarism
 
 **Bold** and _Italic_ and `Code` text
 
