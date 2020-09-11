@@ -21,7 +21,7 @@ Things I enjoy:
 - Video Games
 - Animation
 - Standup Comedy
-- Cookies!!! :cookie: :cookie: :cookie: :cookie: :cookie:
+- Cookies
 
 # Things I Dislike:
 - Art Thieves/Reposters
