@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/arrowarchive/The-Arrowarch
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### About me
-* [Portfolio of my Digital work] (portfolio.md)
+* [Portfolio of my Digital work](portfolio.md)
 
 ```markdown
 Things I enjoy:
