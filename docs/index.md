@@ -8,7 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * [Portfolio of my Digital work](portfolio.md)
 
 ```markdown
-Things I enjoy:
 
 # Rachel/Ray
 ## She/Her
