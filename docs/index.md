@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### About me
 * [Portfolio of my Digital work](portfolio.md)
 * [Frequently Asked Questions](FAQ.md)
+* [Archive](Gallery.md)
 
 ```markdown
 
