@@ -1,5 +1,9 @@
 # FAQ (Frequently Asked Questions)
 
+* Who made your profile picture/PFP?
+
+**My profile picture was made by an artist known as *310v3* on *Twitter*! I commissioned him to draw an icon of Aqua, one of my OCs, in his style, and it is absolutely adorable! I highly recommend that you check out his work** 
+
 * Why do you go by "The Arrowarchive?"
 
 **Arrowarchive is the name I post my art under. I wanted to keep my username the same across multiple platforms, but my previous alias was taken. Because of that, I changed my alias to Arrowarchive, as a "Archive of Arrowpen's Art", and I've posted under that name ever since!**
