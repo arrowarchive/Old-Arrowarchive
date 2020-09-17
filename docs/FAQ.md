@@ -6,7 +6,7 @@
 
 * What program do you draw with?
 
-**I draw with *Clip Studio Paint* on iOS. I have two years of experience with the PC version, but I switched with to the iPad version in June.**
+**I draw with *Clip Studio Paint* on iOS. I have two years of experience with the PC version, but I switched to the iPad version in June.**
 
 * What are your favorite things to draw?
 
@@ -19,3 +19,15 @@
 * What programs do you recommend for someone who is new to Digital Art?
 
 **I recommend *Clip Studio Paint*, but it has a learning curve so I'd suggest using the free trial before deciding if you should buy it. I also recommend *Paint Tool SAI*, *Pixlr*, and *Medibang*, as I've heard great things about each of them.**
+
+* What will you be posting here?
+
+**As of the time I'm writing this (09/17/2020), I plan to post projects from my previous art/design classes, and gradually work my way up to my more recent works.**
+
+* May I repost your art? 
+
+**NO! you are not allowed to repost my work, even if you say you will give me credit. I have/will link my Twitter account to the Github page, so if you want to share my work, please follow me there and retweet my work. Reposting is not allowed, but retweeting is greatly appreciated.**
+
+* I have seen your work posted on someone else's account. What should I do?
+
+**I hope this doesn't happen, but in the event that my work is reposted on someone else's *Instagram*, *Twitter*, *Pinterest*, *DeviantArt*, etc, please send me a message on *Twitter* and give me the name of the account. I will go from there to ensure that the post is taken down. In the event that someone reposts my work AND removes my signature, that is something else entirely. But please, if you see my work reposted anywhere that is NOT my *Instagram*, *Twitter*, or my other websites, please let me know!**
