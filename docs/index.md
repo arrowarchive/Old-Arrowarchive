@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
+### Welcome to the Arrowarchive!
 
-You can use the [editor on GitHub](https://github.com/arrowarchive/The-Arrowarchive/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### About me
+## About me
 * [Portfolio of my Digital work](portfolio.md)
 * [Frequently Asked Questions](FAQ.md)
 * [Archive](images)
 
-```markdown
+markdown
 
 # Rachel/Ray
 ## She/Her
@@ -29,8 +25,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **Bold** and _Italic_ and `Code` text
 
-[Twitter](https://twitter.com/arrowarchive) and ![Image](src)
-```
+[Twitter](https://twitter.com/arrowarchive) and [Instagram](https://www.instagram.com/arrowpen_archive/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
