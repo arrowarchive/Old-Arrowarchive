@@ -3,7 +3,7 @@
 ## About me
 * [Portfolio of my Digital work](portfolio.md)
 * [Frequently Asked Questions](FAQ.md)
-* [Archive](gallery.md)
+* [Archive](Gallery.md)
 * Resume
 
 markdown
