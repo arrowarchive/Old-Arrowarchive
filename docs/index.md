@@ -1,26 +1,15 @@
 ### Welcome to the Arrowarchive!
+This is my corner of the internet, where I will post art and build a digital portfolio. 
+
+My goal is to build this website and learn *Git Bash*. It is a slow process, but I'll do my best to improve and make this site the best it can be! 
 
 ## About Me:
 * [Frequently Asked Questions](FAQ.md)
-* [More About Me](portfolio.md)
+* [More About Me](aboutmore.md)
 * [Archive](gallery.md)
 * [Twitter](https://twitter.com/arrowarchive)
 
-# Rachel/Ray
-## She/Her
-### Art Student
 
-# Things I Like:
-- Drawing
-- Writing
-- Video Games
-- Animation
-- Standup Comedy
-- Cookies
-
-# Things I Dislike:
-- Art Thieves/Reposters
-- Plagiarism
 
 
 
