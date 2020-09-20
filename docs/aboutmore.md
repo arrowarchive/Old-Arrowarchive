@@ -1,10 +1,10 @@
 ### More About Me:
 
-My name is Rachel! I am a digital artist who loves to write and play video games. 
+My name is Rachel! I am a digital artist who loves to draw, write, and play video games. 
 
 I go by she/her pronouns
 
-I grew up watching films, playing games, and creating my own little worlds. They influenced my style, but they also influenced my career. My dream is to create my own shows that inspire others the same way that they inspired me. 
+I grew up watching films, playing games, and creating my own worlds. They influenced my style, but they also influenced my career. My dream is to create my own shows that inspire others the same way that they inspired me. 
 
 ## Favorite TV Shows (Also includes Anime):
 * Ed, Edd n Eddy
@@ -52,8 +52,8 @@ I grew up watching films, playing games, and creating my own little worlds. They
 ## Anything else you would recommend?
 I am an animation buff, but I love science fiction, fantasies, and murder mysteries. If you are a reader, here are some stories I recommend:
 * "And Then There Were None" By Agatha Christie
-* "The Adoration of Jenna Fox" by Mary E. Pearson
-* "The Hitchhiker's Guide to the Galaxy" by Douglas Adams
-* "The Hunger Games" trilogy (and its prequel, "Of Songbirds and Snakes") By Suzanne Collins. 
+* "The Adoration of Jenna Fox" By Mary E. Pearson
+* "The Hitchhiker's Guide to the Galaxy" By Douglas Adams
+* "The Hunger Games" trilogy (and its prequel, "Of Songbirds and Snakes") By Suzanne Collins
 
-Do you have any more questions, visit my [FAQ!](faq.md)
+Do you have any more questions? visit my [FAQ!](FAQ.md)
