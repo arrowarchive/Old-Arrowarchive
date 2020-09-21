@@ -4,4 +4,6 @@ One project from my Digital Media/Design class was to recreate an album cover us
 
  ![Original Album Cover](https://arrowarchive.github.io/The-Arrowarchive/images/hotspace.jpg)
  
- ![Album Recreation](https://arrowarchive.github.io/The-Arrowarchive/images/animalalbum.png) 
+ ![Album Recreation](https://arrowarchive.github.io/The-Arrowarchive/images/animalalbum.png)
+ 
+**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
