@@ -2,7 +2,7 @@
 
 [<img src="images/omabruh.png" alt="omabruh" width="200"/>](images/omabruh.png) 
 [<img src="images/negativespace.png" alt="negativespace" width="200"/>](images/negativespace.png)
-[<img src="images/animalalbum.png" alt="animalalbum" width="200"/>](images/animalalbum.png)
+[<img src="images/animalalbum.png" alt="animalalbum" width="200"/>](details/albumrecreation.md)
 [<img src="images/typedesign.jpg" alt="typedesign" width="200"/>](images/typedesign.jpg) 
 [<img src="images/seahorses.png" alt="seahorses" width="200"/>](images/seahorses.png) 
 
