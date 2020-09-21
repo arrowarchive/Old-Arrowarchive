@@ -1,7 +1,7 @@
 ### NOTE: I plan to update this page so the thumbnail of each image will be visible, and clicking on the thumbnail will redirect to a tab for the full image. This is a goal of mine for this Repo.
 
 [<img src="images/omabruh.png" alt="omabruh" width="200"/>](images/omabruh.png) 
-[<img src="images/negativespace.png" alt="negativespace" width="200"/>](images/negativespace.png.png)
+[<img src="images/negativespace.png" alt="negativespace" width="200"/>](images/negativespace.png)
 [<img src="images/animalalbum.png" alt="animalalbum" width="200"/>](images/animalalbum.png)
 [<img src="images/typedesign.jpg" alt="typedesign" width="200"/>](images/typedesign.jpg) 
 [<img src="images/seahorses.png" alt="seahorses" width="200"/>](images/seahorses.png) 
