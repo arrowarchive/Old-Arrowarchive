@@ -1,7 +1,7 @@
 # Welcome to the Arrowarchive!
-This is my corner of the internet, where I will post art and build a digital portfolio. 
+This is my corner of the internet, where I will post my art and build a digital portfolio. 
 
-My goal is to build this website and learn *Git Bash*. It is a slow process, but I'll do my best to improve and make this site the best it can be! 
+I will post digital art both old and new here, so some drawings will look dated in comparison to others. If you want to know more, please view the "About Me" section below. 
 
 # About Me:
 * [Frequently Asked Questions](FAQ.md)
