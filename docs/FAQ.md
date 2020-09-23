@@ -2,7 +2,7 @@
 
 * Who made your profile picture/PFP?
 
-**My profile picture was made by an artist known as *310v3* on *Twitter*! I commissioned him to draw an icon of Aqua, one of my OCs, in his style, and it is absolutely adorable! I highly recommend that you check out his work** 
+**My profile picture was made by an artist known as *310v3* on *Twitter*! I commissioned him to draw an icon of Aqua, one of my OCs, in his style, and it is absolutely adorable! I highly recommend that you check out his work**. 
 
 * Why do you go by "The Arrowarchive?"
 
@@ -18,15 +18,15 @@
 
 * Will you post your art here?
 
-**Possibly. I'm new to *GitHub*, so I'm figuring out the program. If I can create a page to post my art, then I will.**
+**Yes! I will mostly post digital drawings though, since I will base my portfolio around digital art, I have limited access to a scanner, and I'm not good at taking pictures**.
 
 * What programs do you recommend for someone who is new to Digital Art?
 
-**I recommend *Clip Studio Paint*, but it has a learning curve so I'd suggest using the free trial before deciding if you should buy it. I also recommend *Paint Tool SAI*, *Pixlr*, and *Medibang*, as I've heard great things about each of them.**
+**I recommend *Clip Studio Paint*, but it has a learning curve so I'd suggest using the free trial before deciding if you should buy it. I also recommend *Paint Tool SAI*, *Pixlr*, *FireAlpaca*, and *Medibang*, as I've heard great things about each of them.**
 
 * What will you be posting here?
 
-**As of the time I'm writing this (09/17/2020), I plan to post projects from my previous art/design classes, and gradually work my way up to my more recent works.**
+**I will be posting digital art, in the form of both class projects and personal artwork. It's unlikely that I'll be posting my traditional sketches here**.
 
 * May I repost your art? 
 
@@ -35,3 +35,22 @@
 * I have seen your work posted on someone else's account. What should I do?
 
 **I hope this doesn't happen, but in the event that my work is reposted on someone else's *Instagram*, *Twitter*, *Pinterest*, *DeviantArt*, etc, please send me a message on *Twitter* and give me the name of the account. I will go from there to ensure that the post is taken down. In the event that someone reposts my work AND removes my signature, that is something else entirely. But please, if you see my work reposted anywhere that is NOT my *Instagram*, *Twitter*, or my other websites, please let me know!**
+
+* Why *GitHub?*
+
+**Why not?**
+
+**To be honest, it is because I am taking a class that requires using *GitHub* or *Wordpress* to create my own website using html code. I haven't used *GitHub* for long, but I am enjoying it and I have found a way to organize my work.
+
+* Do you have any other social media accounts besides *Twitter*?
+
+**I do have other accounts. I have an *Instagram* account under the name of *arrowpen_archive*, but I rarely use it. The account is private, and I use it to keep in touch with friends and a handful of artists. 
+
+* Do you have any advice for artists who want to start posting over social media?
+
+**Be yourself! I could write an entire blog post about my experience, but I will keep it short. Here are my main pieces of advice for putting art on social media:**
+* **Know the limits of the program you use**. On *Instagram*, for example, you can only post photos in 1080 x 1080 or in 1080 x 1350. It's unorthodox if you are working digitally, since it means that it will crop your work if your image is above their size limits (and don't get me started on image compression), but if you want to post on *Instagram*, I'm not stopping you! 
+* **Always, ALWAYS watermark your work!** I've known artists who have had their work stolen or reposted because it was not watermarked or the watermark was in a place where it could easily be removed (like the corner of a post).
+* **Don't hesitate to participate in art shares/events!** These are more common on *Twitter* compared to *Instagram*, but these events can boost smaller artists. Share some of your work, comment on the work of others, and interact with the community. DTIYS (Draw This in your Style) challenges are also fun to participate in, but work on them only if you have the time for it.
+
+**[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
