@@ -10,4 +10,4 @@ I will post digital art both old and new here, so some drawings will look dated 
 * [Twitter](https://twitter.com/arrowarchive)
 * Resume 
 
-[<img src="images/facemyart.PNG" alt="facemyart" width="500"/>]
+<img src="images/facemyart.PNG" alt="facemyart" width="500"/>
