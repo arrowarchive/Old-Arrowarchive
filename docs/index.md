@@ -11,4 +11,4 @@ I will post digital art both old and new here, so some drawings will look dated 
 * Resume 
 
 
-![facemyart2](images/facemyart2.PNG)
+![facemyart2](images/facemyart2.png)
