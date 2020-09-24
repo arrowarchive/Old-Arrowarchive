@@ -46,7 +46,7 @@
 
 * Do you have any other social media accounts besides *Twitter*?
 
-**I do have other accounts. I have an *Instagram* account under the name of *arrowpen_archive*, but I rarely use it. The account is private, and I use it to keep in touch with friends and a handful of artists I follow. 
+**I do have other accounts. I have an *Instagram* account under the name of *arrowpen_archive*, but I rarely use it. The account is private, and I use it to keep in touch with friends and a handful of artists I follow**. 
 
 * Do you have any advice for artists who want to start posting over social media?
 
