@@ -4,10 +4,6 @@
 
  **Rachel Gerzevske**  
  
-* 1(267) 382-7847
-
-* 331 Madison Avenue Souderton, PA 18964
- 
 * rgerzevske@gmail.com 
 
 ## **Education:**
