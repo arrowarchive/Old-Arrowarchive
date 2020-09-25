@@ -1,6 +1,6 @@
 # Resume Info
 
-**Hello! My name is Rachel, and I am a student majoring in the field of digital arts and technology. My activities resume is posted below:**
+**Hello! My name is Rachel. I am a student majoring in the field of digital arts and technology. My activities resume is posted below:**
 
  **Rachel Gerzevske**  
  
