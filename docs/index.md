@@ -8,6 +8,6 @@ I will post digital art both old and new here, so some drawings will look dated 
 * [More About Me](aboutmore.md)
 * [Archive](gallery.md)
 * [Twitter](https://twitter.com/arrowarchive)
-* Resume 
+* [Resume](resumeinfo.md)
 
 <img src="images/facemyart.PNG" alt="facemyart" width="500"/>
