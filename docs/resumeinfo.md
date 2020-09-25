@@ -1,11 +1,13 @@
 # Resume Info
 
-# Hello! My name is Rachel, and I am a student majoring in the field of digital arts and technology. My activities resume is posted below:
+**Hello! My name is Rachel, and I am a student majoring in the field of digital arts and technology. My activities resume is posted below:**
 
- **Rachel Gerzevske**                                                                                                  
- * 1(267) 382-7847
+ **Rachel Gerzevske**  
+ 
+* 1(267) 382-7847
 
- 331 Madison Avenue Souderton, PA 18964                                                                            
+* 331 Madison Avenue Souderton, PA 18964
+ 
 * rgerzevske@gmail.com 
 
 ## **Education:**
