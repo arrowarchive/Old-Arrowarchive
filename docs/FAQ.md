@@ -57,6 +57,6 @@
 
 * Are there any art resources you would recommend?
 
-* **Yes! this applies mostly to character artists, but I frequently refer to [*Senshistock*](https://www.deviantart.com/senshistock/gallery) when drawing poses. They have references for all genders and body types, and I highly recommend them. I also recommend [*SketchDaily*](http://reference.sketchdaily.net/en), as they have pose references in addition to photos of certain parts (ex. hands), a variety of animals, and a small library of plants. If I find more resources, I will update this question**.
+**Yes! this applies mostly to character artists, but I frequently refer to [*Senshistock*](https://www.deviantart.com/senshistock/gallery) when drawing poses. They have references for all genders and body types, and I highly recommend them. I also recommend [*SketchDaily*](http://reference.sketchdaily.net/en), as they have pose references in addition to photos of certain parts (ex. hands), a variety of animals, and a small library of plants. If I find more resources, I will update this question**.
 
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
