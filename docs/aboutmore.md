@@ -2,7 +2,7 @@
 
 My name is Rachel! I am a digital artist who loves to draw, write, and play video games. 
 
-I go by she/her pronouns
+I go by she/her pronouns.
 
 I grew up watching films, playing games, and creating my own worlds. They influenced my style, but they also influenced my career. My dream is to create my own shows that inspire others the same way that they inspired me. 
 
