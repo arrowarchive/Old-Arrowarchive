@@ -26,7 +26,7 @@
 
 ## **Extracurricular Activities**
 
- **SAHS gaming club (2016-present)**
+ **SAHS gaming club (2016-2020)**
 *	A weekly gathering of those who enjoy all things video gaming.
 
 **Autism Awareness Club (2019)**
