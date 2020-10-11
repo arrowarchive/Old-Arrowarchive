@@ -12,4 +12,4 @@ I will post digital art both old and new here, so some drawings will look dated 
 * [Web Development Reflection](reflection.md)
 * *AntConc* and *Voyant Tools* Reflection (Link will be added later)
 
-<img src="images/facemyart.PNG" alt="facemyart" width="500" onContextMenu="alert('I won/'t let you download my introductory image!'); return false;"/>
+<img src="images/facemyart.PNG" alt="facemyart" width="500" onContextMenu="alert('I won/'t let you download my introductory image!');return false;"/>
