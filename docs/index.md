@@ -14,6 +14,4 @@ I will post digital art both old and new here, so some drawings will look dated 
 
 
 <img src="images/facemyart.PNG" alt="facemyart" width="500"
-     onContextMenu="alert('I won/'t let you download my introductory pic!');return false;">
-
-
+onContextMenu="return false;">
