@@ -15,6 +15,14 @@ View the word cloud [here](https://voyant-tools.org/?corpus=38b7a12b7a26f8ded816
 
 ### Common Ground in Different Genres
 
+Both stories are told from a first-person perspective, meaning that "I", "Me", "My," and "And" are common among the top N-grams. In fact, between each story, the phrase "in the" (pictured below) is the top three. 
 
+**View *Frankenstein* (left) and *Hamlet* (right)**
+![Compare1](/text/compare1.jpg)
 
 ### Classically Different
+
+While many N-grams are shared between stories, their contexts are different. Viewing the Concordance tab for "in the", I found a number of differences. *Hamlet* uses the phrase the present tense, providing exposition and stage directions when it isn't spoken, while *Frankenstein* uses the phrase in the past tense, emphasizing a setting or detail and is followed by an adjective. 
+
+**View *Frankenstein* (left) and *Hamlet* (right)**
+![Compare2](/text/compare2.png)
