@@ -10,7 +10,7 @@ I will post digital art both old and new here, so some drawings will look dated 
 * [Twitter](https://twitter.com/arrowarchive)
 * [Resume](resumeinfo.md)
 * [Web Development Reflection](reflection.md)
-* [Corpus Reflection](corpusreflection.md) (WORK IN PROGRESS!)
+* [Corpus Reflection](corpusreflection.md)
 
 
 <img src="images/facemyart.PNG" alt="facemyart" width="500"
