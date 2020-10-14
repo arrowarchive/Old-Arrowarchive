@@ -29,3 +29,5 @@ While many N-grams are shared between stories, their contexts are different. Vie
 
 **View *Frankenstein* (left) and *Hamlet* (right)**
 ![Compare2](https://raw.githubusercontent.com/arrowarchive/The-Arrowarchive/master/text/compare2.png)
+
+**[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
