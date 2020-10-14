@@ -1,7 +1,7 @@
 # Archive: 
 
 
-[<img src="images/omabruh.png" alt="omabrah" height="130" width="130"/>](details/omabruh.md)
+[<img src="images/omabruh.png" alt="omabruh" height="130" width="130"/>](details/omabruh.md)
 [<img src="images/negativespace.png" alt="negativespace" height="130" width="130"/>](details/negativespace.md)
 [<img src="images/typedesign.jpg" alt="typedesign" height="130" width="130"/>](details/typedesign.md)
 [<img src="images/animalalbum.png" alt="animalalbum" height="130" width="130"/>](details/albumrecreation.md)
