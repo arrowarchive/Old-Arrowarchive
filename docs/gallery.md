@@ -7,5 +7,6 @@
 [<img src="images/animalalbum.png" alt="animalalbum" height="130" width="130"/>](details/albumrecreation.md)
 [<img src="images/Harxol.png" alt="harxol" height="130" width="130"/>](details/harxol.md)
 [<img src="images/seahorses.png" alt="seahorses" height="130" width="130"/>](details/seahorses.md)
+[<img src="images/oceanbookshelf.png" alt="Ocean Bookshelf" height="130" width="130"/>](details/bookshelf.md)
 
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
