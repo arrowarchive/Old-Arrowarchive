@@ -1,9 +1,8 @@
 # Archive: 
+[<img src="images/omahbruh.png" alt="Omabruh" height="130" width="130" onContextMenu="return false;"/>](details/omabruh.md)
 
-<img src="images/omabruh.png" alt="omabruh" width="130" height="130"
- onContextMenu="return false;"/>
 <img src="images/negativespace.png" alt="negativespace" width="130" height="130"
- onContextMenu="return false;"/>
+ onContextMenu="return false;">
 <img src="images/animalalbum.png" alt="animalalbum" width="130" height="130"
  onContextMenu="return false;"/>
 <img src="images/typedesign.jpg" alt="typedesign" width="130" height="130"
