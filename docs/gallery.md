@@ -6,7 +6,7 @@
 [<img src="images/typedesign.jpg" alt="typedesign" height="130" width="130" onContextMenu="return false;"/>](details/typedesign.md)
 [<img src="images/Harxol.png" alt="Harxol" height="130" width="130" onContextMenu="return false;"/>](details/harxol.md)
 [<img src="images/seahorses.png" alt="seahorses" height="130" width="130" onContextMenu="return false;"/>](details/seahorses.md)
-[<img src="images/oceanbookshelf.png" alt="oceanbookshelf" height="130" width="130" onContextMenu="return false;"/>](details/oceanbookshelf.md)
+[<img src="images/oceanbookshelf.png" alt="oceanbookshelf" height="130" width="130" onContextMenu="return false;"/>](details/bookshelf.md)
 
 
 
