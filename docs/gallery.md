@@ -8,6 +8,6 @@
 [<img src="images/seahorses.png" alt="seahorses" height="130" width="130" onContextMenu="return false;"/>](details/seahorses.md)
 [<img src="images/oceanbookshelf.png" alt="oceanbookshelf" height="130" width="130" onContextMenu="return false;"/>](details/bookshelf.md)
 [<img src="images/oceandrawer.png" alt="oceandrawer" height="130" width="130" onContextMenu="return false;"/>](details/oceandrawer.md)
-
+[<img src="images/cute.png" alt="cute" height="130" width="130" onContextMenu="return false;"/>](details/cute.md)
 
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
