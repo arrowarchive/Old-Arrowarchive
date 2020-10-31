@@ -4,7 +4,7 @@ I designed a character a while back who looks cute, but is a terrifyingly powerf
  
 I hope you enjoy this image, and Happy Halloween!!!
 
-<img src="https://raw.githubusercontent.com/arrowarchive/The-Arrowarchive/master/docs/images/cute.png" alt="cute" width="720" height="1008"
+<img src="https://raw.githubusercontent.com/arrowarchive/The-Arrowarchive/master/docs/images/cute.png" alt="cute" width="500" height="750"
      onContextMenu="return false;">
      
 **[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
