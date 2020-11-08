@@ -14,7 +14,7 @@ Similar to the Thomas edition, the 1831 edition makes several changes. The 1831 
 <img src="images/variorum4.png" alt="variorum4" height="250" width="500"> <img src="images/variorum5.png" alt="variorum5" height="250" width="500">
 
 The 1831 edition isn't exempt from large changes. Several instances, such as section 4 and 5 of the 1818 version, wrote the scenes to be longer. The scenes are comparible to the Thomas edition in length, but interestingly, very few changes from the Thomas edition carry over to the 1831 edition. It emphasizes the differences between the two, and the similarities between the previous editions.
-<img src="images/variorum7.png" alt="variorum7" height="250" width="500">
+<img src="images/variorum7.png" alt="variorum7" height="250" width="500"> <img src="images/variorum8.png" alt="variorum8" height="250" width="500"> 
 
 ## Finishing Thoughts and Critiques
 
