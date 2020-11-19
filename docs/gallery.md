@@ -10,4 +10,5 @@
 [<img src="images/oceandrawer.png" alt="oceandrawer" height="130" width="130" onContextMenu="return false;"/>](details/oceandrawer.md)
 [<img src="images/cute.png" alt="cute" height="130" width="130" onContextMenu="return false;"/>](details/cute.md)
 [<img src="images/oceandesk.png" alt="oceandesk" height="130" width="130" onContextMenu="return false;"/>](details/oceandesk.md)
+[<img src="images/oceanbed.PNG" alt="oceanbed" height="130" width="130" onContextMenu="return false;"/>](details/oceanbed.md)
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
