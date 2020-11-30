@@ -12,4 +12,3 @@ I do not have permission to share the video here, but the song is catchy and the
 
 **[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
 
-(Hopefully this commit works)
