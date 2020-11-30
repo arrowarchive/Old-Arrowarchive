@@ -11,7 +11,7 @@
 [<img src="images/cute.png" alt="cute" height="130" width="130" onContextMenu="return false;"/>](details/cute.md)
 [<img src="images/oceandesk.png" alt="oceandesk" height="130" width="130" onContextMenu="return false;"/>](details/oceandesk.md)
 [<img src="images/oceanbed.PNG" alt="oceanbed" height="130" width="130" onContextMenu="return false;"/>](details/oceanbed.md)
-[<img src="images/cantfixyou.png" alt="Redraw" height="130" width="130" onContextMenu="return false;"/>](details/cantfixyou.md)
+[<img src="images/cantfixyou.png" alt="Redraw" height="130" width="130" onContextMenu="return false;"/>](details/cantfix.md)
 
 
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
