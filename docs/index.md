@@ -12,6 +12,7 @@ I will post digital art both old and new here, so some drawings will look dated 
 * [Web Development Reflection](reflection.md)
 * [Corpus Reflection](corpusreflection.md)
 * [*Frankenstein* Variorum Reflection](variorum.md)
+* [Game review: *Aurore*](aurore.md)
 
 <img src="images/facemyart.PNG" alt="facemyart" width="500"
 onContextMenu="return false;">
