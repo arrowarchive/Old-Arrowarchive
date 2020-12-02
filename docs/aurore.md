@@ -8,6 +8,9 @@
 ## Aesthetic
 The game embraces the idea behind secondary worlds. This isn't prevalent at first, but after revisiting the game, I put the pieces together; The title screen is designed after a train car, but after starting the game, the player is transported to a world of pink clouds, structures floating in midair, trees without roots, and arches made from train tracks, with no train in sight. Accompanied by a gentle piano piece, it provides a relaxing ambiance. 
 
+<img src="schoolpics/a1.png" width="499" height="263"> <img src="schoolpics/a2.png" width="499" height="263">
+
+
 The second half of the game changes the ambiance. Going from islands in the sky to caves with intricate stones and rivers, with a more foreboding track playing and less objects that can be manipulated. The path does not crumble behind the player, but the environment is closed in with less freedom to explore. I have a feeling that the rule of symbolism is in place, but I can't explain why.
 
 ## Controls
@@ -17,3 +20,7 @@ The game is designed as if it was meant to support an Xbox controller. The playe
 
 ## Performance
 *Aurore's* other weak point is its framerate. The game has few glitches, but it requires a lot of RAM in order to run properly. I have eight gigabytes of RAM on my computer, which can run games such as *Ori and the Will of the Wisps* without any problems, but *Aurore* struggled to keep a consistent framerate. I can't confirm if it is my computer that is causing the problem, or if a different source such as the game's engine or rendering a large number of assets simultaneously that lowers the framerate, but it kept me from being completely immersed in the game. 
+
+<img src="schoolpics/acrumble.png" width="499" height="263">
+
+**[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
