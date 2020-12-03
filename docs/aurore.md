@@ -29,4 +29,7 @@ The game is designed as if it was meant to support an Xbox controller. The playe
 
 <img src="schoolpics/acrumble.png" width="499" height="263">
 
+## Final Thoughts
+*Aurore* is a visually breathtaking contemplative adventure game with an interesting concept and narrative that is unfortunately hindered by performance issues and flawed camera controls. I respect the developers for creating a narrative with such a small team, but if they want an official release, the controls and system performance need to be tested and tweaked before releasing to the general public.
+
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
