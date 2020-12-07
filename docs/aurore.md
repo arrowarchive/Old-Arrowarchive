@@ -1,6 +1,6 @@
 # Aurore Review
 
-*Aurore* is an independent Adventure/Puzzle game by Reverie Forge. using environmental storytelling, it immerses the player in their adventure, similar to *Journey* and *ABZU*.  
+*Aurore* is an independent Adventure/Puzzle game by Reverie Forge. Ssing environmental storytelling, it immerses the player in their adventure, similar to *Journey* and *ABZU*.  
 
 ## Gameplay
 *Aurore's* gimmick is unlike anything I have played before; using the mouse buttons, the player must increase or decrease the size of the objects around them to create a path. Any resizable objects are highlighted when the camera hovers over them, which the game teacher the player early on. However, this does not just apply to the objects in front of a player, but the objects behind them as well; after traversing each structure, the structures will crumble behind them, but they are no different from when they were assembled, the only difference being that they are broken into pieces. Players brave enough to navigate broken structures may be rewarded with "memories", collectibles obtained within the game.
