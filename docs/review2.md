@@ -6,4 +6,4 @@ For now, this is all I have, so I hope it will suffice.
 
 [Game 1: *Aurore* >>>](https://github.com/arrowarchive/The-Arrowarchive/blob/master/docs/aurore.md)
 
-[**Back to Main** >>>](docs/index.md)
+**[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
