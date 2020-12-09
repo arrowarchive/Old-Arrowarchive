@@ -22,8 +22,14 @@ These websites, alongside *GitHub*, are my social media outlets. I do not have p
 
 2. **Removing my watermark is not permitted-** Watermarks are a form of protection for an artist. I'm discreet with my watermarks, but removing them and advertising the work as your own is strictly forbidden. If this does occur, let me know immediately. I'm less tolerant of people who remove my watermark, and I will be less forgiving when discussing the subject. 
 
-3. **Quote-Retweeting or including my work in a Fleet is prohibited-** This is specific to *Twitter* users. Quote-Retweeting creates a post under the sharer's account the prevents likes, comments, and constructive criticism from reaching the artist. 
+3. **Quote-Retweeting or including my work in a Fleet is prohibited-** This is specific to *Twitter* users. Quote-Retweeting creates a post under the sharer's account the prevents likes, comments, and constructive criticism from reaching the artist. I disapprove of fleets for a similar reason, but unlike *Instagram* stories, the artist will not be informed of this and the viewer cannot be directed to the artist's page (If *Twitter* changes how fleets are formatted, then I may change my stance on this policy).
 
 * Due to changes in *Twitter's* interface, a retweet takes the form of a blank QRT. While QRT's are a nuisance, retweets are greatly appreciated, as they share my work and ensure that I will receive any feedback on the piece.
+
+## Non-Commercial Use Policy
+
+Creative Commons states that **others cannot use my work for commercial purposes**. This means that others are not allowed to use my work for profit unless they have approval. With that said, I have one exception to this rule: **commissions**. My stance on commissions is that despite paying an artist to draw something, the work counts as non-commercial. Everything I commission is intended for personal use, so commissioning a drawing of an original character is essentially granting permission to draw the character as long as it is not used commercially. With that said, I have one rule for artists I commission:
+
+* **If my commission includes an original character and the artist wants to share it online, I must be asked about it and credited for the initial design.** I appreciate that artists I've commissioned do this already, but I'm not opposed to the drawing being shared as long as I am asked about it beforehand and that I am tagged/mentioned if I approve.
 
 **[Back to Main >>>](index.md)** 
