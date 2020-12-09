@@ -13,6 +13,7 @@
 [<img src="images/oceanbed.PNG" alt="oceanbed" height="130" width="130" onContextMenu="return false;"/>](details/oceanbed.md)
 [<img src="images/cantfixyou.png" alt="Redraw" height="130" width="130" onContextMenu="return false;"/>](details/cantfix.md)
 [<img src="images/nihilus.png" alt="conceptsketch" height="130" width="130" onContextMenu="return false;"/>](details/nihilus.md)
+[<img src="images/skyrabbits/skyrabbits.png" alt="skyrabbits" height="130" width="130" onContextMenu="return false;"/>](details/skyrabbits.md)
 
 
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
