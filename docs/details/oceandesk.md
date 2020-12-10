@@ -1,6 +1,6 @@
 # Ocean Desk
 
-<img src="https://raw.githubusercontent.com/arrowarchive/The-Arrowarchive/master/docs/images/oceandesk.png"
+<img src="https://raw.githubusercontent.com/arrowarchive/The-Arrowarchive/master/docs/images/objects/oceandesk.png"
      onContextMenu="return false;">
      
 The ocean desk is one of my favorite items in the set so far. It's based on my desk, which has a removable filing cabinet containing two drawers and a gap above them. I wanted the ocean influence to be more noticeable, so I added a seahorse design on the side, bubbles on the corners, a seaweed handle, a golden seaweed handle, and pearl drawer pulls. 
