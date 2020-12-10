@@ -17,7 +17,8 @@ I will post digital art both old and new here, so some drawings will look dated 
 * [Corpus Reflection](corpusreflection.md)
 * [*Frankenstein* Variorum Reflection](variorum.md)
 * [Game review: *Aurore*](aurore.md)
-* [Game review: *Inside the Void* (WIP)](review2.md)
+* [Game review: *Inside the Void*](review2.md)
+* [Game Comparison: *Aurore* and *Inside the Void* (WIP)](mainmenu/finalcomparison.md)
 
 <img src="images/SPACE/facemyart.PNG" alt="facemyart" width="500"
 onContextMenu="return false;">
