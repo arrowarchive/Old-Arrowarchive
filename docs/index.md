@@ -7,8 +7,8 @@ I will post digital art both old and new here, so some drawings will look dated 
 * **[Terms of Service](tos.md)**
 * [Frequently Asked Questions](mainmenu/FAQ.md)
 * [More About Me](mainmenu/aboutmore.md)
-* [**Archive**](gallery.md)
-* [**Twitter**](https://twitter.com/arrowarchive)
+* [**Archive](gallery.md)**
+* [**Twitter](https://twitter.com/arrowarchive)**
 
 ### School Work 
 
