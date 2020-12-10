@@ -12,8 +12,8 @@ I will post digital art both old and new here, so some drawings will look dated 
 
 ### School Work 
 
-* [Resume](resumeinfo.md)
-* [Web Development Reflection](reflection.md)
+* [Resume](mainmenu/resumeinfo.md)
+* [Web Development Reflection](mainmenu/reflection.md)
 * [Corpus Reflection](corpusreflection.md)
 * [*Frankenstein* Variorum Reflection](variorum.md)
 * [Game review: *Aurore*](aurore.md)
