@@ -1,6 +1,6 @@
 # Ocean Bed
 
-<img src="https://raw.githubusercontent.com/arrowarchive/The-Arrowarchive/master/docs/images/oceanbed.PNG"
+<img src="https://raw.githubusercontent.com/arrowarchive/The-Arrowarchive/master/docs/images/objects/oceanbed.PNG"
      onContextMenu="return false;">
      
 The most recent addition to the ocean furniture set, the bed takes a subtler approach to the ocean aesthetic. Featuring a clam shell headboard, a wave-patterned comforter, and pearl-like pillows, it was a test of incorporating a motif into a design while retaining its subtlety.
