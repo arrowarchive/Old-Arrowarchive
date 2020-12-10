@@ -5,10 +5,10 @@ I will post digital art both old and new here, so some drawings will look dated 
 
 ### About Me:
 * **[Terms of Service](tos.md)**
-* [Frequently Asked Questions](FAQ.md)
-* [More About Me](aboutmore.md)
-* [Archive](gallery.md)
-* [Twitter](https://twitter.com/arrowarchive)
+* [Frequently Asked Questions](mainmenu/FAQ.md)
+* [More About Me](mainmenu/aboutmore.md)
+* [**Archive**](gallery.md)
+* [**Twitter**](https://twitter.com/arrowarchive)
 
 ### School Work 
 
