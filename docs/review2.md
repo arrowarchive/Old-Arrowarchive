@@ -34,6 +34,6 @@ The game appears to be a deconstruction of the "space voyager" plotline, featuri
 
 
 
-[Game 1: *Aurore* >>>](https://github.com/arrowarchive/The-Arrowarchive/blob/master/docs/aurore.md)
+[Game 1: *Aurore* >>>](https://arrowarchive.github.io/The-Arrowarchive/aurore.html)
 
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
