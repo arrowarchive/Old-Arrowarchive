@@ -1,16 +1,20 @@
 # Welcome to the Arrowarchive!
-This is my corner of the internet, where I will post my art and build a digital portfolio. 
+This is the official art blog of arrowarchive!
 
-I will post digital art both old and new here, so some drawings will look dated in comparison to others. If you want to know more, please view the "About Me" section below. 
+I am a digital artist, character designer, and aspiring filmmaker with a style reminiscent of the shows I grew up with. 
 
-### About Me:
+## About Me:
 * **[Terms of Service](tos.md)**
 * [Frequently Asked Questions](mainmenu/FAQ.md)
 * [More About Me](mainmenu/aboutmore.md)
+
+## My Art:
 * **[Archive](gallery.md)**
+
+## Follow me on *Twitter!*
 * **[Twitter](https://twitter.com/arrowarchive)**
 
-### School Work 
+## School Work 
 
 * [Resume](mainmenu/resumeinfo.md)
 * [Web Development Reflection](mainmenu/reflection.md)
