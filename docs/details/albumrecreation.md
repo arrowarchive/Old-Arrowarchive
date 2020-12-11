@@ -1,7 +1,7 @@
 # Album Recreation Assignment
 
  
- <img src="https://arrowarchive.github.io/The-Arrowarchive/images/animalalbum.png" alt="animalalbum" height="1500" width="1500"
+ <img src="https://arrowarchive.github.io/The-Arrowarchive/images/animalalbum.png" alt="animalalbum" height="1250" width="1250"
      onContextMenu="return false;">
      
  <img src="https://arrowarchive.github.io/The-Arrowarchive/images/hotspace.jpg"
