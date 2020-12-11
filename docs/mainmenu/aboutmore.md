@@ -52,13 +52,13 @@ I'm a digital artist, but I grew up watching shows and playing games. They're a 
 * The Sixth Sense
 * Spiderman: Into the Spiderverse
 
-## Anything else you would recommend?
+## Anything Else You Would Recommend?
 I am an animation buff, but I love science fiction, fantasies, and murder mysteries. If you are a reader, here are some stories I recommend:
 * "And Then There Were None" By Agatha Christie
 * "The Adoration of Jenna Fox" By Mary E. Pearson
 * "The Hitchhiker's Guide to the Galaxy" By Douglas Adams
 * "The Hunger Games" trilogy (and its prequel, "Of Songbirds and Snakes") By Suzanne Collins
 
-Do you have any more questions? visit my [FAQ!](mainmenu/FAQ.md)
+Do you have any more questions? visit my **[FAQ](https://arrowarchive.github.io/The-Arrowarchive/mainmenu/FAQ.html)**
 
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
