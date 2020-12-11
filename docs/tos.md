@@ -36,7 +36,7 @@ Creative Commons states that **others cannot use my work for commercial purposes
 
 * A rule of thumb when sharing my art is that **I always share my art to *Twitter* before posting to *GitHub***. My reason for this is because of file management; I draw from my iPad and download the image to my computer, so my upload order is the result of serendipity.  
 
-* **I'll always post an update before my website undergoes maintenence-** These updates will come in the form of *Twitter* posts, so that is the best way to know the status of my website. Similarly, if there is an issue with the website (such as an error 404 when redirecting to an image), let me know and I will troubleshoot the issue. I appreciate feedback regardless of the medium, so don't hesitate to reach out to me!
+* **I'll always post an update before my website undergoes maintenance-** These updates will come in the form of *Twitter* posts, so that is the best way to know the status of my website. Similarly, if there is an issue with the website (such as an error 404 when redirecting to an image), let me know and I will troubleshoot the issue. I appreciate feedback regardless of the medium, so don't hesitate to reach out to me!
 
 * **I will not post Work-in-Progress (WIP) images to this website-** This is a regular occurrence outside of *GitHub*. I do not post WIPs unless I want a critique, so it is impractical to post them here, where there is no way to provide feedback (unless I learn how to add comments) and keep them up when I finish the image. 
 
