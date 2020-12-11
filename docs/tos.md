@@ -28,7 +28,7 @@ These websites, alongside *GitHub*, are my social media outlets. I do not have p
 
 ## Non-Commercial Use Policy
 
-Creative Commons states that **others cannot use my work for commercial purposes**. This means that others are not allowed to use my work unless a compromise is reached. With that said, I have one exception to this rule: **commissions**. My stance on commissions is that despite paying an artist to draw something, the work counts as non-commercial. Everything I commission is intended for personal use, so commissioning a drawing of an original character is essentially granting permission to draw the character as long as it is not used commercially. With that said, I have one rule for artists I commission:
+Creative Commons states that **others cannot use my work for commercial purposes**. This means that others are not allowed to use my work unless a compromise is reached. With that said, I have one exception to this rule: **commissions**. My stance on commissions is that despite paying an artist to draw something, the work counts as non-commercial. Everything I commission is intended for personal use, so commissioning a drawing of an original character is granting permission to draw them so long as it is used non-commercially. With that said, I have one rule for the artists:
 
 * **If my commission includes an original character and the artist wants to share it online, I must be asked about it and credited for the initial design.** I appreciate that artists I've commissioned do this already, but I'm mentioning this so others understand my thoughts on it. The artist DOES NOT need to ask permission to share my commission if the characters are not my own, but if they are, I appreciate knowing in advance. 
 
