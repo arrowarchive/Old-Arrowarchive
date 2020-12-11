@@ -1,12 +1,13 @@
 ### More About Me:
 
-My name is Rachel! I am a digital artist who loves to draw, write, and play video games. 
+My name is Rachel! 
 
 I go by she/her pronouns.
 
-I grew up watching films, playing games, and creating my own worlds. They influenced my style, but they also influenced my career. My dream is to create my own shows that inspire others the same way that they inspired me. 
+I'm a digital artist, but I grew up watching shows and playing games. They're a big part of my life, and while I'm no expert, here are some of my picks if you are looking for something new. 
 
-## Favorite TV Shows (Also includes Anime):
+
+## Favorite Shows (Also includes Anime):
 * Ed, Edd n Eddy
 * Spongebob Squarepants
 * The Fairly Oddparents
@@ -29,18 +30,19 @@ I grew up watching films, playing games, and creating my own worlds. They influe
 * Slime Rancher
 * Journey
 * Puzzle and Dragons Z
-* Super Mario 64
+* Super Mario 64 (and the DS version)
 * Unravel 
 * Unravel 2
+* Just Shapes and Beats
 
 ## Favorite Films
 * Inside Out
-* The "How to Train your Dragon" trilogy
+* The "How to Train Your Dragon" trilogy
 * Zootopia
 * Big Hero 6
 * The Lion King (the animated version)
 * Forrest Gump
-* My Hero Academia: the Two Heroes
+* My Hero Academia: The Two Heroes
 * My Hero Academia: Heroes Rising
 * Toy Story 3 
 * The Incredibles (and its sequel!)
@@ -48,6 +50,7 @@ I grew up watching films, playing games, and creating my own worlds. They influe
 * Wreck-it Ralph
 * Coco
 * The Sixth Sense
+* Spiderman: Into the Spiderverse
 
 ## Anything else you would recommend?
 I am an animation buff, but I love science fiction, fantasies, and murder mysteries. If you are a reader, here are some stories I recommend:
@@ -56,6 +59,6 @@ I am an animation buff, but I love science fiction, fantasies, and murder myster
 * "The Hitchhiker's Guide to the Galaxy" By Douglas Adams
 * "The Hunger Games" trilogy (and its prequel, "Of Songbirds and Snakes") By Suzanne Collins
 
-Do you have any more questions? visit my [FAQ!](FAQ.md)
+Do you have any more questions? visit my [FAQ!](mainmenu/FAQ.md)
 
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
