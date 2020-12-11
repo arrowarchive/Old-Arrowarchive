@@ -21,7 +21,7 @@ In this essay, I will discuss these games in depth, from their aesthetic and acc
 ## Final Thoughts
 
 ### Individual Reviews:
-* [*Aurore* Review](docs/aurore.md)
-* [*Inside the Void* Review](docs/game2.md)
+* [*Aurore* Review](https://arrowarchive.github.io/The-Arrowarchive/aurore.html)
+* [*Inside the Void* Review](https://arrowarchive.github.io/The-Arrowarchive/review2.html)
 
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
