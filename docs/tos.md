@@ -46,10 +46,10 @@ Creative Commons states that **others cannot use my work for commercial purposes
 
 If you have read to this point, then I appreciate your effort. I never saw myself writing a Terms of Service page, so if it is unorganized, confusing, or slightly overwhelming, then I know how you feel. Sharing art online is a double-edged sword; more people will see it, but there is a higher risk of it being stolen or traced. This license and ToS is insurance, to protect my work from a worst-case scenario. 
 
-**To the artists I commission and everyone who supports my work, don't let this intimidate you-** Just know that I'm taking initiative with protecting my art, so reach out to me if you have any questions. The world of copyright is confusing, especially in this day and age, so as long as you read the rules and respect my terms, then there is nothing you should worry about. Thank you for reading this essay, and I hope you enjoy what I have on display here at The-Arrowarchive!
+**To the artists I commission and everyone who supports my work, don't let this intimidate you-** Just know that I'm taking initiative with protecting my art, so reach out to me if you have any questions. The world of copyright is confusing, especially in this day and age, so as long as you read the rules and respect my terms, then there is nothing you should worry about. Thank you for your time, and I hope you enjoy what I have on display here at *The-Arrowarchive!*
 
 Sincerely,
 
-*Rachel (AKA, Arrow)*
+*Rachel (Arrow)*
 
 **[Back to Main >>>](index.md)** 
