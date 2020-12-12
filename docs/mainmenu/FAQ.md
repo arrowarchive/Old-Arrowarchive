@@ -34,7 +34,7 @@
 
 * I have seen your work posted on someone else's account. What should I do?
 
-**I hope this doesn't happen, but in the event that my work is reposted on someone else's *Instagram*, *Twitter*, *Pinterest*, *DeviantArt*, etc, please send me a message on *Twitter* and provide a link to the account or post. I want to resolve the conflict peacefully, but I will be less forgiving if my work is reposted and my watermark is removed. I've detailed my thoughts on my [terms of service](https://arrowarchive.github.io/The-Arrowarchive/tos.html), so please read those before asking any more questions about the issue.
+**I hope this doesn't happen, but in the event that my work is reposted on someone else's *Instagram*, *Twitter*, *Pinterest*, *DeviantArt*, etc, please send me a message on *Twitter* and provide a link to the account or post. I want to resolve the conflict peacefully, but I will be less forgiving if my work is reposted and my watermark is removed. I've detailed my thoughts on my [terms of service](https://arrowarchive.github.io/The-Arrowarchive/tos.html), so please read those before asking any more questions about the issue.**
 
 * Why *GitHub?*
 
