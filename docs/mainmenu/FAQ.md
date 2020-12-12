@@ -2,7 +2,9 @@
 
 * Who made your profile picture/PFP?
 
-**My profile picture was made by Cele on *Twitter!* I commissioned him to draw an icon of Aqua, one of my characters, in his style. The result is adorable, and I highly recommend that you check out his work!** 
+**My profile picture was made by Cele! I commissioned him to draw an icon of Aqua, one of my characters, in his style. The result is adorable, and I recommend that you view his work! A lot of it is centered around the *Danganronpa* games, but even if you are unfamiliar with the series, his art style is fantastic.**
+
+**[Follow Cele on *Twitter*](https://twitter.com/310v3)**
 
 **[View Cele's Tumblr](https://ikusabamukuro.tumblr.com/)**
 
@@ -26,8 +28,6 @@
 
 **I recommend *Clip Studio Paint*, but it has a learning curve so I'd suggest using the free trial before deciding if you should buy it. I also recommend *Paint Tool SAI*, *Pixlr*, *FireAlpaca*, and *Medibang*, as I've heard great things about each of them. For iOS/iPad users, I suggest *Clip Studio Paint*, *Procreate*, and *Tayasui Sketches.***
 
-
-
 * May I repost your art? 
 
 **NO! you are not allowed to repost my work, even if you say you will give me credit. I have linked my *Twitter* account to the *Github* page, so if you want to share my work, please follow me there and retweet my work. Reposting is not allowed, but retweeting is greatly appreciated. For more on this, please read my [terms of service](https://arrowarchive.github.io/The-Arrowarchive/tos.html)**
@@ -38,7 +38,7 @@
 
 * Why *GitHub?*
 
-**I took a class in September of 2020 where I had to make a website using *GitHub* or *WordPress*. I chose to work with *GitHub*, since I enjoyed the program's learning curve. I plan to continue taking those classes, so my website my change a lot
+**I took a class in September of 2020 where I had to make a website using *GitHub* or *WordPress*. I chose to work with *GitHub*, since I enjoyed the program's learning curve. I plan to continue taking those classes, so my website may change a lot over time. If you read my [terms of service](https://arrowarchive.github.io/The-Arrowarchive/tos.html), I will always issue a notice when I'm going to make changes to my website.
 
 * Do you have any other social media accounts besides *Twitter*?
 
@@ -55,6 +55,6 @@
 
 **Yes! this applies mostly to character artists, but I frequently refer to [*Senshistock*](https://www.deviantart.com/senshistock/gallery) when drawing poses. They have references for all genders and body types, and I highly recommend them. I also recommend [*SketchDaily*](http://reference.sketchdaily.net/en), as they have pose references in addition to photos of certain parts (ex. hands), a variety of animals, and a small library of plants.**
 
-I will update this question if I find more resources, but if you are struggling to find a certain pose, **why not do it yourself?** If you have a camera, tripod, and maybe some friends willing to assist you, it could help you get the result you're looking for.
+(I will update this question if I find more resources, but if you are struggling to find a certain pose, **why not do it yourself?** If you have a camera, tripod, and maybe some friends willing to assist you, it could help you get the result you're looking for)
 
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
