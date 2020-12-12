@@ -38,7 +38,7 @@
 
 * Why *GitHub?*
 
-**I took a class in September of 2020 where I had to make a website using *GitHub* or *WordPress*. I chose to work with *GitHub*, since I enjoyed the program's learning curve. I plan to continue taking those classes, so my website may change a lot over time. If you read my [terms of service](https://arrowarchive.github.io/The-Arrowarchive/tos.html), I will always issue a notice when I'm going to make changes to my website.**
+**I took a class in September of 2020 where I had to make a website using *GitHub* or *WordPress*. I chose to work with *GitHub*, since I enjoyed the program's learning curve. I plan to continue taking those classes, so my website may change a lot over time. If you read my [terms of service](https://arrowarchive.github.io/The-Arrowarchive/tos.html), I will always issue a notice when I'm going to make changes here.**
 
 * Do you have any other social media accounts besides *Twitter*?
 
