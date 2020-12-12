@@ -1,19 +1,39 @@
 # Archive: 
 
+**NOTE:** this page is currently undergoing maintenance. Because of this, some images may not have redirect links for a while.
 
+### School Projects
 [<img src="images/negativespace.png" alt="negativespace" height="130" width="130" onContextMenu="return false;"/>](details/negativespace.md)
 [<img src="images/animalalbum.png" alt="animalalbum" height="130" width="130" onContextMenu="return false;"/>](details/albumrecreation.md)
 [<img src="images/typedesign.jpg" alt="typedesign" height="130" width="130" onContextMenu="return false;"/>](details/typedesign.md)
-[<img src="images/Harxol.png" alt="Harxol" height="130" width="130" onContextMenu="return false;"/>](details/harxol.md)
-[<img src="images/seahorses.png" alt="seahorses" height="130" width="130" onContextMenu="return false;"/>](details/seahorses.md)
+
+### Objects/Furniture
 [<img src="images/objects/oceanbookshelf.png" alt="oceanbookshelf" height="130" width="130" onContextMenu="return false;"/>](details/objects/bookshelf.md)
 [<img src="images/objects/oceandrawer.png" alt="oceandrawer" height="130" width="130" onContextMenu="return false;"/>](details/objects/oceandrawer.md)
-[<img src="images/SPACE/cute.png" alt="cute" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/cute.md)
 [<img src="images/objects/oceandesk.png" alt="oceandesk" height="130" width="130" onContextMenu="return false;"/>](details/objects/oceandesk.md)
 [<img src="images/objects/oceanbed.PNG" alt="oceanbed" height="130" width="130" onContextMenu="return false;"/>](details/objects/oceanbed.md)
-[<img src="images/SPACE/cantfixyou.png" alt="Redraw" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/cantfix.md)
-[<img src="images/SPACE/nihilus.png" alt="conceptsketch" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/nihilus.md)
-[<img src="images/skyrabbits/skyrabbits.png" alt="skyrabbits" height="130" width="130" onContextMenu="return false;"/>](details/skyrabbits.md)
 
+### Original Characters (SPACE)
+
+[<img src="images/SPACE/cantfixyou.png" alt="Redraw" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/cantfix.md)
+[<img src="images/SPACE/ipadpractice.PNG" alt="practice" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/ipadpractice.md)
+[<img src="images/SPACE/akaneshadow.png" alt="Danganronpa pose study" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/drstudy.md)
+[<img src="images/SPACE/pyroredesign.png" alt="Pyro" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/pyroredesign.md)
+[<img src="images/SPACE/electraredesign.png" alt="Electra" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/electraredesign.md)
+[<img src="images/SPACE/cadence.png" alt="Cadence" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/mythoscompare.md)
+[<img src="images/SPACE/mythoscompare.png" alt="comparison" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/mythoscompare.md)
+[<img src="images/SPACE/bumble.png" alt="Bumble" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/bumble.md)
+[<img src="images/SPACE/mermaidaqua.png" alt="Mermaid Aqua" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/mermaidaqua.md)
+[<img src="images/SPACE/nihilus.png" alt="Nihilus concept" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/nihilus.md)
+[<img src="images/SPACE/brainsandbrawn.png" alt="brains and brawn" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/brainsandbrawn.md)
+[<img src="images/SPACE/spacegirls.PNG" alt="space girls" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/spacegirls.md)
+[<img src="images/SPACE/cute.png" alt="cute" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/cute.md)
+
+
+### Original Characters (Other)
+[<img src="images/Harxol.png" alt="Harxol" height="130" width="130" onContextMenu="return false;"/>](details/harxol.md)
+[<img src="images/seahorses.png" alt="seahorses" height="130" width="130" onContextMenu="return false;"/>](details/seahorses.md)
+[<img src="images/skyrabbits/skyrabbits.png" alt="skyrabbits" height="130" width="130" onContextMenu="return false;"/>](details/skyrabbits.md)
+[<img src="images/skyrabbits/yinyang1.png" alt="mayday" height="130" width="130" onContextMenu="return false;"/>](details/mayday.md)
 
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
