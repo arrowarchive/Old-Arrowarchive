@@ -30,7 +30,7 @@
 [<img src="images/SPACE/brainsandbrawn.png" alt="brains and brawn" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/brainsandbrawn.md)
 [<img src="images/SPACE/spacegirls.PNG" alt="space girls" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/spacegirls.md)
 [<img src="images/SPACE/cute.png" alt="cute" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/cute.md)
-
+[<img src="https://i9.ytimg.com/vi_webp/ldQsqwbTSqU/mqdefault.webp?time=1608144000000&sqp=CICp6f4F&rs=AOn4CLAh-S1oV__up8QsY6c8JL0VkalGHQ" alt="Art Final" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/keepfighting.md)
 
 ### Original Characters (Other)
 [<img src="images/Harxol.png" alt="Harxol" height="130" width="130" onContextMenu="return false;"/>](details/harxol.md)
