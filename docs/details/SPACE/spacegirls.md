@@ -7,6 +7,6 @@ Pyro and Electra's picture inspired me to draw another piece, but with the girls
 
 Out of everyone, Chlora's design took the most effort. I tried something new with her hair, I added the star to her tie, and while I designed her whip, I didn't have a colored sketch for it. That, and I had to mirror her pose because there aren't a lot of left-handed poses online and there needs to be more!!! I tried something new with the shading as well, which I really enjoy because I look back and it still looks great!
 
-Rambling aside, I love this piece so much. I drew this in September, but it feels like I drew it recently. I can't wait to draw these three again, and I can't wait to draw them together!
+Rambling aside, I love this piece so much. I drew it in September, but it feels like I drew it recently. I can't wait to draw these three again, and I can't wait to draw them together!
 
 **[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
