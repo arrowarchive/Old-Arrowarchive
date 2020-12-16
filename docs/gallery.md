@@ -20,7 +20,7 @@
 [<img src="images/SPACE/akaneshadow.png" alt="Danganronpa pose study" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/drstudy.md)
 [<img src="images/SPACE/pyroredesign.png" alt="Pyro" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/pyroredesign.md)
 [<img src="images/SPACE/electraredesign.png" alt="Electra" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/electraredesign.md)
-[<img src="images/SPACE/cadence.png" alt="Cadence" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/mythoscompare.md)
+[<img src="images/SPACE/cadence.png" alt="Cadence" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/cadence.md)
 [<img src="images/SPACE/mythoscompare.png" alt="comparison" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/mythoscompare.md)
 [<img src="images/SPACE/nihilus.png" alt="Nihilus concept" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/nihilus.md)
 [<img src="images/SPACE/bumble.png" alt="Bumble" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/bumble.md)
