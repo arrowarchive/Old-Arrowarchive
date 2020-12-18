@@ -24,7 +24,7 @@ These websites, alongside *GitHub*, are my social media outlets. I do not have p
 
 3. **Quote-Retweeting or including my work in a Fleet is prohibited-** This is specific to *Twitter* users. Quote-Retweeting creates a post under the sharer's account prevents likes, comments, and constructive criticism from reaching the artist. I disapprove of fleets for a similar reason, but unlike *Instagram* stories, the artist will not be informed of this and the viewer cannot be directed to the artist's page (If *Twitter* changes how fleets are formatted, then I may change my stance on Fleets).
 
-* Due to changes in *Twitter's* interface, a retweet takes the form of a blank QRT. While QRT's are a nuisance, retweets are greatly appreciated, as they share my work and ensure that I will receive any feedback on the piece.
+*  While QRT's are a nuisance, retweets are greatly appreciated, as they share my work and ensure that I will receive any feedback on the piece.
 
 ## Non-Commercial Use Policy
 
