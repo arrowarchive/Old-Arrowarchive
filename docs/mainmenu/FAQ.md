@@ -51,9 +51,10 @@ I have other accounts, which are listed **[here](https://arrowarchive.github.io/
 * **Do you have any advice for artists who want to start posting over social media?**
 
 **Be yourself! I could write an entire blog post about my experience, but I will keep it short. Here are my main pieces of advice for putting art on social media:**
-* **Know the limits of the platform you use**. On *Instagram*, for example, you can only post photos in 1080 x 1080 or in 1080 x 1350. It's unorthodox if you are working digitally, since it means that it will crop your work if your image is above their size limits (and don't get me started on image compression), but if you want to post on *Instagram*, I'm not stopping you! 
-* **Always, ALWAYS watermark your work!** I've known artists who have had their work stolen or reposted because it was not watermarked or the watermark was in a place where it could easily be removed. Find a place where the watermark can fit so it is difficult to remove or crop out.
-* **Don't hesitate to participate in art shares/events!** These are more common on *Twitter* compared to *Instagram*, but these events can boost smaller artists. Share some of your work, comment on the work of others, and interact with the community. DTIYS (Draw This in your Style) challenges are also fun to participate in, but participate only if you know that you can get the project done.
+1. **Know the limits of the platform you use**. On *Instagram*, for example, you can only post photos in 1080 x 1080 or in 1080 x 1350. It's unorthodox if you are working digitally, since it means that it will crop your work if your image is above their size limits (and don't get me started on image compression), but if you want to post on *Instagram*, I'm not stopping you! 
+2. **Always, ALWAYS watermark your work!** I've known artists who have had their work stolen or reposted because it was not watermarked or the watermark was in a place where it could easily be removed. Find a place where the watermark can fit so it is difficult to remove or crop out.
+3. **Don't hesitate to participate in art shares/events!** These are more common on *Twitter* compared to *Instagram*, but these events can boost smaller artists. Share some of your work, comment on the work of others, and interact with the community. DTIYS (Draw This in your Style) challenges are also fun to participate in, but participate only if you know that you can get the project done.
+
 
 * **Are there any art resources you would recommend?**
 
