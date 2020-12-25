@@ -1,6 +1,6 @@
 # Archive: 
 
-**NOTE:** If it takes a while for the thumbnails to load, it's not an issue on your end; I've had the same issue, and my computer has 20 Gigs of RAM. It's an internet issue or a *GitHub* issue, but I can't confirm the cause :sweat_smile:
+**NOTE:** If it takes a while for the thumbnails to load, it's not an issue on your end; I've had the same issue, and my computer has 20 Gigs of RAM. It's an internet issue or a *GitHub* issue, but I can't confirm the cause.
 
 ### School Projects
 [<img src="images/negativespace.png" alt="negativespace" height="130" width="130" onContextMenu="return false;"/>](details/negativespace.md)
