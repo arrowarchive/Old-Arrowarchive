@@ -31,6 +31,7 @@
 [<img src="images/SPACE/brainsandbrawn.png" alt="brains and brawn" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/brainsandbrawn.md)
 [<img src="images/SPACE/spacegirls.PNG" alt="space girls" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/spacegirls.md)
 [<img src="images/SPACE/cute.png" alt="cute" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/cute.md)
+[<img src="images/SPACE/alltogether.PNG" alt="All Together Now" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/alltogether.md)
 
 ### Original Characters (Other)
 [<img src="images/Harxol.png" alt="Harxol" height="130" width="130" onContextMenu="return false;"/>](details/harxol.md)
