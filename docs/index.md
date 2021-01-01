@@ -14,5 +14,5 @@ I am a digital artist, character designer, and aspiring filmmaker with a style r
 ### Follow me on *Twitter!*
 * **[Click Here](https://twitter.com/arrowarchive)**
 
-<img src="images/SPACE/facemyart.PNG" alt="facemyart" width="500"
+<img src="images/SPACE/newyear.PNG"
 onContextMenu="return false;">
