@@ -39,5 +39,6 @@
 [<img src="images/skyrabbits/skyrabbits.png" alt="skyrabbits" height="130" width="130" onContextMenu="return false;"/>](details/skyrabbits.md)
 [<img src="images/skyrabbits/yinyang1.png" alt="mayday" height="130" width="130" onContextMenu="return false;"/>](details/mayday.md)
 [<img src="images/flyaway.PNG" alt="" height="130" width="130" onContextMenu="return false;"/>](details/flyaway.md)
+[<img src="images/skyrabbits/flowers.PNG" alt="" height="130" width="130" onContextMenu="return false;"/>](details/flowers.md)
 
 **[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
