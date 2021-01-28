@@ -5,7 +5,7 @@
 
 *Insert clever title here*
 
-Yeah, the title's lame, but this was a pose study I did in July with Shadow that I found funny. I picture Aqua taking photos of everyone and Shadow is having none of it; she agreed to the photo so Aqua would leave her alone, but she didn't promise that she would smile :laughing:
+Yeah, the title's lame, but this was a pose study I did in July with Shadow that I found funny. I picture Aqua taking photos of everyone and Shadow is having none of it; she agreed to the photo so Aqua would leave her alone, but she didn't promise that she would smile.
 
 If it wasn't obvious, Shadow's the moody one who likes to fight and mess with the others. She's my favorite to draw because of her design, and her expressions stand out because I have one eye to work with (her other eye is covered by her hair).
 
