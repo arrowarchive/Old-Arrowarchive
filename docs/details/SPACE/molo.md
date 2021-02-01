@@ -1,6 +1,6 @@
 # Molo
 
-<img src="https://raw.githubusercontent.com/arrowarchive/The-Arrowarchive/master/docs/images/SPACE/molo.PNG" alt="character design"
+<img src="https://pbs.twimg.com/media/EtEFUDUXIAIAXNL?format=jpg&name=large" alt="character design"
      onContextMenu="return false;">
 
 I decided to challenge myself when it comes to character design; instead of drawing a character with two eyes, I tried drawing a character with one. It was harder than it looked, especially since she started looking like Cherri Bomb from *Hazbin Hotel* halfway through designing her and I wasn't sure what to think. 
