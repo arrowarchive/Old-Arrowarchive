@@ -33,7 +33,7 @@
 [<img src="images/SPACE/cute.png" alt="cute" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/cute.md)
 [<img src="images/SPACE/alltogether.PNG" alt="All Together Now" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/alltogether.md)
 [<img src="images/SPACE/ember.PNG" alt="character redraw" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/ember.md)
-[<img src="images/SPACE/molo.PNG" alt="concept sketch" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/molo.md)
+[<img src="https://pbs.twimg.com/media/EtEFUDUXIAIAXNL?format=jpg&name=large" alt="concept sketch" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/molo.md)
 
 ### Original Characters (Other)
 [<img src="images/Harxol.png" alt="Harxol" height="130" width="130" onContextMenu="return false;"/>](details/harxol.md)
