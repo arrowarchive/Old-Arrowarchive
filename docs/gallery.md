@@ -1,6 +1,6 @@
 # Archive: 
 
-**NOTE:** If it takes a while for the thumbnails to load, it's not an issue on your end; I've had the same issue, and my computer has 20 Gigs of RAM. It's an internet issue or a *GitHub* issue, but I can't confirm the cause.
+**NOTE:** These pieces are organized by the day they were completed. The newest ones are at the top, while the oldest ones are at the bottom. 
 
 
 
