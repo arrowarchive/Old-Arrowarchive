@@ -12,5 +12,7 @@ This time, it's a yin and yang-like drawing featuring Kesshō and her counterpar
 
 That said, I love how the midnight/sunrise contrast on this piece turned out! It took a while, but I'm very proud of it!
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**September 28th, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
 
