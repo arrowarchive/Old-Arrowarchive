@@ -12,4 +12,6 @@ The first picture is the original rabbit design from 2019, and the second pictur
 
 I love their designs, and I need to draw them more. For now, enjoy this piece I made! 
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**July 19th, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
