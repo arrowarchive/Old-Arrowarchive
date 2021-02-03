@@ -7,4 +7,6 @@ The most recent addition to the ocean furniture set, the bed takes a subtler app
 
 It was challenging, no doubt about it, but I'm satisfied with the result and I intend to do the same with the remaining items. 
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**August 16th, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
