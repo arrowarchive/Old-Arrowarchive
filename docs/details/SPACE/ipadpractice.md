@@ -19,6 +19,6 @@ I got an iPad in June of 2020, and I couldn't wait to draw with it! I ordered so
 
 Looking back, My style has changed significantly; my lines were thicker and Chlora's hair is different, but these were quick drawings (by my standards, anyway). This was a good test run for my iPad and its version of *Clip Studio*, and I was ready to switch after using the PC version two years prior.
 
-### Date Completed: June 12th, 2020
+**June 12th, 2020**
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)** 
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
