@@ -9,6 +9,6 @@ That aside, let me give my thoughts: a while back, I was talking with a friend o
 
 I liked the idea, but I didn't want to use it for him; Electra's hair color is almost identical to Kaminari's, so I held onto the idea and used it for another character. Bumble's hair color is the opposite of Electra's, so the homage is more subtle. It looks good with the stripes on her arms, but I need to remember which side of her face the lightning bolt is on.
 
-### Date Completed: July 2nd, 2020
+### July 2nd, 2020
 
 **[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
