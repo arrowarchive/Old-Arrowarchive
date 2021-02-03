@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/arrowarchive/The-Arrowarchive/master/docs/images/SPACE/alltogether.PNG" alt="All Together Now"
      onContextMenu="return false;">
 
-**Date completed: December 29th, 2020**
+**Date Completed: December 29th, 2020**
 
 If you saw this and thought "I've seen this before", then you're right. This was originally two separate pictures, one for the girls and one for the guys, but I decided to combine the two. They are arranged by name, as that's what "SPACE Warriors" is an acronym of. 
 
