@@ -7,4 +7,6 @@ Earlier this year, there was a trend tagging on *Twitter* called #faceyourart. H
 
 I can't believe all of these drawings were made this year. I don't know where the time went, but it was time well spent! 
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**August 6th, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
