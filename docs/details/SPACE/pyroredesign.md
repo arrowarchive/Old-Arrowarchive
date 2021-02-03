@@ -7,4 +7,6 @@ Early in 2020, I gave one of my characters--Pyro-- a redesign. He originally wor
 
 Later versions of his design include an emblem on the shirt and I've drawn him with sandals, but this was the concept drawing for his current look. The darker shades of red and gold mesh well with his skin tone, so I hope I can keep using this design going forward!
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**June 15th, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
