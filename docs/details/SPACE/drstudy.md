@@ -14,4 +14,6 @@ The expressions suited their characters, and I got a better grasp on the hands f
 
 * The sprites for Akane and Kokichi I referenced can be found **[here](https://static.wikia.nocookie.net/danganronpa/images/8/8b/Akane_Owari_Halfbody_Sprite_%288%29.png/revision/latest/scale-to-width-down/752?cb=20170819153506)** and **[here](https://static.wikia.nocookie.net/danganronpa/images/9/94/Danganronpa_V3_Kokichi_Oma_Fullbody_Sprite_%288%29.png/revision/latest/scale-to-width-down/538?cb=20180506070916)**
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**May 13th, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
