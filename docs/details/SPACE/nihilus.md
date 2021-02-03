@@ -7,4 +7,6 @@ Remember my Halloween drawing? the person pictured is Nihilus, a character I des
 
 Her Halloween design is cleaner and more refined, but I want to share the concept design. My style has evolved this year, and this is an example of it.
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**May 31st, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
