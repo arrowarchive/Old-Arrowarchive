@@ -7,4 +7,6 @@ In July, I was browsing through some old sketchbooks when I found a doodle I wan
 
 She is bashful and dislikes bringing attention to herself, unlike her sisters who crave it. Because of that, I made her appearance regal yet modest, and her sisters will look more extravagent in comparison. Her design is simple but elegant, and I need to draw her again. 
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**July 10th, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
