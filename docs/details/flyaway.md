@@ -9,4 +9,6 @@ I was going to focus on her design initially, but after a while, I decided to ad
 
 (That's supposed to be the capricorn sign on her hand, btw. If I draw her again, I'll explain why it's there)
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**December 21st, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
