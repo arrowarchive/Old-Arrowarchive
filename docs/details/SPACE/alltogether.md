@@ -3,6 +3,8 @@
 <img src="https://raw.githubusercontent.com/arrowarchive/The-Arrowarchive/master/docs/images/SPACE/alltogether.PNG" alt="All Together Now"
      onContextMenu="return false;">
 
+**Date completed: December 29th, 2020**
+
 If you saw this and thought "I've seen this before", then you're right. This was originally two separate pictures, one for the girls and one for the guys, but I decided to combine the two. They are arranged by name, as that's what "SPACE Warriors" is an acronym of. 
 
 This was done for convenience, but also for scale; Pyro is the tallest (5'10/178 cm) and Chlora is the shortest (5'2/157 cm, but stands at 5'4/163 cm with heels on), so when I lined them up together, I wanted to convey that. 
