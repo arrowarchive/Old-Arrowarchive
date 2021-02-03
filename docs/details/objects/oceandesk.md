@@ -7,4 +7,6 @@ The ocean desk is one of my favorite items in the set so far. It's based on my d
 
 I have one more item that I have designed for the set, and I will finish the rest of it at a later date. 
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**August 6th, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
