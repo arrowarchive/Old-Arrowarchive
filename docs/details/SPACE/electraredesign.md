@@ -9,4 +9,6 @@ Electra's redesign has a steampunk influence, borrowing some elements from the *
 
 Calling him a modern steampunk is an understatement, and the steampunk style as a whole is underrated. I'm satisfied with how he looks, but I need to draw him like this again. It's been too long since I've last drawn him.
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**May 28th, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
