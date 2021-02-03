@@ -10,5 +10,7 @@ I do not have permission to share the video, but you can visit the channel **[he
 
 * If you want to see the video, I'll warn you: **the video contains flashing lights and images, which may not be suitable for photosensitive viewers.** There are other videos featuring the song without the animation, but viewer discretion is advised (I'm stating this because it's listed in the video's description, but I don't know who pays attention to video descriptions nowadays).
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**May 17th, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
 
