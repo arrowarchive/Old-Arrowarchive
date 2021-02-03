@@ -9,4 +9,6 @@ Songs inspire me more than I thought. This summer, I was listening to "Oblivion"
 
 I could have drawn the arms better and made the clouds more detailed, but that is something I will focus on later. This was one of my favorite drawings this year, and I won't let it fade into oblivion, that's for sure!
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**August 2nd, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
