@@ -7,5 +7,6 @@ I designed a character a while back who looks cute, but is a terrifyingly powerf
  
 I hope you enjoy, and Happy Halloween!!!
 
-     
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**October 31st, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
