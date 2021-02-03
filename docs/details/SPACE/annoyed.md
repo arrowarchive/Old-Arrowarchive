@@ -11,4 +11,6 @@ If it wasn't obvious, Shadow's the moody one who likes to fight and mess with th
 
 I think I've drawn her and Aqua the most, but I can't say for sure. Their designs have changed the most, that's for sure.
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**July 7th, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
