@@ -9,6 +9,6 @@ Doubts aside, I like how she looks. I was originally gonna draw her wearing a di
 
 My last note on Molo surrounds the little things; she's the second character who wears fingerless gloves, her ears are pointy (but it's not visible because of her hair), and her star is tattooed onto her chest instead of being printed onto her clothes or a hair accessory. I want to keep experimenting with her design and hopefully I can make her more distinct. 
 
-### January 24th, 2021
+**January 24th, 2021**
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
