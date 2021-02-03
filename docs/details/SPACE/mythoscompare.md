@@ -23,4 +23,6 @@ The oldest drawing of Mythos was drawn on *Inkscape*, and the newest was drawn o
 
 I feel like if I drew her now, she'd have more detail in her clothes, eyelashes, and hair, with better arm and leg proportions. Still, it's amazing how much work evolves with time, and I can't wait to see how it continues to evolve!
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**July 1st, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
