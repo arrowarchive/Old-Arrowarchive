@@ -9,4 +9,6 @@ I look back on these two and it's crazy for me to think that both of them got re
 
 I wanted to practice drawing their forms and see if there was anything I could add, both of which I accomplished! Gradients were fun to experiment with too, as the "half and half" background turned out better than I thought. I drew Shadow, Aqua, and Chlora in a similar style, so I can't wait to share my thoughts on them!
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**August 13th, 2020**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
