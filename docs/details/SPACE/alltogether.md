@@ -13,6 +13,6 @@ It's not 100% accurate, but it's close enough. They look good, the gradient look
 
 * To view the picture of the girls, click **[here](https://arrowarchive.github.io/The-Arrowarchive/details/SPACE/spacegirls.html)**
 
-### December 29th, 2020
+ **December 29th, 2020**
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
