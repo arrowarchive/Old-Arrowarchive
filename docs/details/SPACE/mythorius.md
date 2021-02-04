@@ -1,6 +1,6 @@
 # Character Design: Mythorius
 
-<img src="https://raw.githubusercontent.com/arrowarchive/The-Arrowarchive/master/docs/images/SPACE/mythorius.PNG" alt="character design"
+<img src="https://raw.githubusercontent.com/arrowarchive/The-Arrowarchive/master/docs/images/SPACE/mythorius2.PNG" alt="character design"
      onContextMenu="return false;">
 
 Time for a new character design!
