@@ -5,7 +5,7 @@
 
 
 ### 2021
-[<img src="images/SPACE/mythorius2.PNG" alt="character design" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/mythorius.md)
+[<img src="https://pbs.twimg.com/media/EtbOkdXWgAU1TkF?format=jpg&name=large" alt="character design" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/mythorius.md)
 [<img src="https://pbs.twimg.com/media/EtEFUDUXIAIAXNL?format=jpg&name=large" alt="concept sketch" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/molo.md)
 [<img src="images/SPACE/ember.PNG" alt="character redraw" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/ember.md)
 [<img src="images/skyrabbits/flowers.PNG" alt="" height="130" width="130" onContextMenu="return false;"/>](details/flowers.md)
