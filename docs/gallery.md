@@ -10,6 +10,7 @@
 [<img src="https://pbs.twimg.com/media/EtEFUDUXIAIAXNL?format=jpg&name=large" alt="concept sketch" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/molo.md)
 [<img src="images/SPACE/ember.PNG" alt="character redraw" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/ember.md)
 [<img src="images/skyrabbits/flowers.PNG" alt="" height="130" width="130" onContextMenu="return false;"/>](details/flowers.md)
+[<img src="images/SPACE/newyear.PNG" alt="Happy New Year" height="130" width="130" onContextMenu="return false;"/>](details/2021.md)
 
 ### 2020
 [<img src="images/SPACE/alltogether.PNG" alt="All Together Now" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/alltogether.md)
