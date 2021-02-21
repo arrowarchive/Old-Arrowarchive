@@ -5,7 +5,7 @@ I am a digital artist, character designer, and aspiring filmmaker with a style r
 
 ## About Me:
 * **[Terms of Service](tos.md)**
-* [More About Me](mainmenu/aboutmore.md)
+* [More about Me/ My Interests](mainmenu/aboutmore.md)
 * [Frequently Asked Questions](mainmenu/FAQ.md)
 
 ### My Art:
@@ -14,5 +14,5 @@ I am a digital artist, character designer, and aspiring filmmaker with a style r
 ### Follow me on *Twitter!*
 * **[Click Here](https://twitter.com/arrowarchive)**
 
-<img src="images/SPACE/newyear.PNG"
+<img src="images/SPACE/welcome.PNG"
 onContextMenu="return false;">
