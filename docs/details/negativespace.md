@@ -10,6 +10,6 @@ I had to do a negative space project for my Digital Media/Design Class in my thi
 
 I based the colors on the diamonds from *Steven Universe*. It's one of my favorite shows, and the idea was too good to pass up.
 
-**Completion Date Unknown**
+**Completion Date: 2018-2019**
 
 ### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
