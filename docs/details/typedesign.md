@@ -8,4 +8,6 @@ One assignment for my Digital Media/Design class was to design six text graphics
 
 It was a fun project, and what I learned from it helped me later down the line.
 
-**[Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)**
+**Completion Date: 2018-2019**
+
+### [Back to Archive >>>](https://arrowarchive.github.io/The-Arrowarchive/gallery)
