@@ -24,6 +24,10 @@ I love drawing characters! I've designed several of them, and about 95% of my dr
 
 I've worked with several traditional mediums in the past, but my website will consist of mostly digital art, as it's the field I want to pursue.
 
+* **Do you take commissions?**
+
+As of the time of writing (February 22nd, 2021), I do not take commissions. I like the idea behind them and they can help the artist make money, but I do not have enough time and I want to refine my skills before considering it. If I consider taking commissions, I will update this page and my terms of service to reflect it. 
+
 * **What programs do you recommend for someone who is new to Digital Art?**
 
 I recommend *Clip Studio Paint*, but it has a learning curve so I'd suggest using the free trial before deciding if you should buy it. I also recommend *Paint Tool SAI*, *Pixlr*, *FireAlpaca*, and *Medibang*, as I've heard great things about each of them. For iOS/iPad users, I suggest *Clip Studio Paint*, *Procreate*, and *Tayasui Sketches.*
@@ -35,6 +39,10 @@ NO! you are not allowed to repost my work, even if you say you will give me cred
 * **May I use one of your drawings as a profile picture/banner?**
 
 Of course! As long as you ask me first and credit me in your bio, You can use one of my drawings as a profile picture. If you want to use it as a profile picture for a platform where you can't credit the artist (ex. *Discord*), then all you need to do is ask me.
+
+* **May I use one of your drawings as a phone/computer wallpaper?**
+
+Definitely! I doubt that a lot of my drawings will fit the aspect ratios for iPads, computers, phones, etc. but if you can make it work, go ahead! My only request is that if you decide to share what your current wallpapers are on social media (which I have seen people do), please credit me if one of my drawings is your wallpaper. I prefer if you would ask before making one of my drawings into a wallpaper, but otherwise I'm fine with it.
 
 * **I have seen your work posted on someone else's account. What should I do?**
 
