@@ -12,7 +12,9 @@ I chose Shadow and Electra for this study, and I used sprites from Akane Owari i
 
 The expressions suited their characters, and I got a better grasp on the hands from this exercise. As a bonus, this was my first full-body drawing of Electra's redesign, and I'm really happy with how it turned out! I've used that design ever since, plus or minus the goggles on his head.
 
-* The sprites for Akane and Kokichi I referenced can be found **[here](https://static.wikia.nocookie.net/danganronpa/images/8/8b/Akane_Owari_Halfbody_Sprite_%288%29.png/revision/latest/scale-to-width-down/752?cb=20170819153506)** and **[here](https://static.wikia.nocookie.net/danganronpa/images/9/94/Danganronpa_V3_Kokichi_Oma_Fullbody_Sprite_%288%29.png/revision/latest/scale-to-width-down/538?cb=20180506070916)**
+* The sprites I used for this study can be found **[here](https://static.wikia.nocookie.net/danganronpa/images/8/8b/Akane_Owari_Halfbody_Sprite_%288%29.png/revision/latest/scale-to-width-down/752?cb=20170819153506)** and **[here](https://static.wikia.nocookie.net/danganronpa/images/9/94/Danganronpa_V3_Kokichi_Oma_Fullbody_Sprite_%288%29.png/revision/latest/scale-to-width-down/538?cb=20180506070916)**. 
+
+* If I post another study like this, I will cite the references I used similar to how I did here. I attribute partial credit to *The Danganronpa Wiki* for archiving the sprites I used and *Spike Chunsoft* for publishing the games in which they came from.
 
 **May 13th, 2020**
 
