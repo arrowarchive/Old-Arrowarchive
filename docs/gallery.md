@@ -5,6 +5,7 @@
 
 
 ### 2021
+[<img src="images/leo.PNG" alt="new outfit" height="130" width="130" onContextMenu="return false;"/>](details/leo.md)
 [<img src="images/SPACE/jacket.PNG" alt="new outfit" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/jacket.md)
 [<img src="images/lylatt.PNG" alt="design challenge" height="130" width="130" onContextMenu="return false;"/>](details/lylatt.md)
 [<img src="images/SPACE/alethea.PNG" alt="character design" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/alethea.md)
