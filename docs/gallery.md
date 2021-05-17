@@ -5,6 +5,9 @@
 
 
 ### 2021
+[<img src="images/SPACE/judging.PNG" alt="No reason to lie" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/judging.md)
+[<img src="images/SPACE/relicsong.PNG" alt="An ancient melody" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/relicsong.md)
+[<img src="images/SPACE/chat.PNG" alt="Just a casual discussion" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/chat.md)
 [<img src="images/lacertae.PNG" alt="Autobots, Rock Out!" height="130" width="130" onContextMenu="return false;"/>](details/lacertae.md)
 [<img src="images/SPACE/doubletrouble.PNG" alt="Team Rocket Reference" height="130" width="130" onContextMenu="return false;"/>](details/SPACE/doubletrouble.md)
 [<img src="images/easter.PNG" alt="Happy Easter!" height="130" width="130" onContextMenu="return false;"/>](details/easter.md)
